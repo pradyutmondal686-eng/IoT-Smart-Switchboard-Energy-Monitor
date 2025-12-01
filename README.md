@@ -52,7 +52,7 @@ Interface Mapping:
 | PZEM004T TX | GPIO 17 |
 
 project circuit diagram
-(iot project ckt diagram.pdf) 
+(iot project ckt diagram_page-0001.jpg) 
 
 ---
 
